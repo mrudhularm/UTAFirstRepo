@@ -25,7 +25,13 @@ git status
 to push a second file
 
 create a file
-git add .
+git add . --here . means the current folder
 git commit -m "Text Meassge"
 git push origin master
+
+to push a single file that was editied
+git add second.txt --- here file is specified as second.txt
+git commit -m "Text meassge"
+git push origin master
+
 
