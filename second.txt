@@ -35,3 +35,11 @@ git commit -m "Text meassge"
 git push origin master
 
 
+to fetch from repository
+ create a folder, lets say fetchGit
+now to fetchgit on c:\...fetchgit>
+git clone github_url_of_repository
+
+
+
+
