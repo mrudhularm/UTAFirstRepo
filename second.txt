@@ -40,6 +40,15 @@ to fetch from repository
 now to fetchgit on c:\...fetchgit>
 git clone github_url_of_repository
 
+now in fetchgit there is another folder with the name of repository that is UTAFirstRepo
+
+to pull from repo for changes
+go to fetchgit then to UTAFirstRepo
+C:\fetchgit\UTAFirstRepo> git pull
+
+
+
+
 
 
 
