@@ -1,0 +1,22 @@
+CReate a folder --- try git
+navigate to that folder cd...
+git inti --- initialize the folder
+create a file first.txt
+git status
+git add . --- adds the current folder
+git status
+git coomit -m "text meassage wrt file" ---fails
+git config --global user.name mrudhularm
+git confir --global user.email mrdhularm26@gmail.com
+git commit --m "text meassage wrt file" 
+git remote add origin https://github.com/mrudhularm/UTAfirstRepo.git
+git remote -v
+git push origin master
+
+
+FYI,
+git status 
+--- if a file is in green it means added but not commited
+--- if a file is in red it means not added yet
+--- if no file then all the files are uploaded
+
